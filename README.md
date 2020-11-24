@@ -5,7 +5,7 @@ This project was inspired by [vibing_cat_rust](https://github.com/rajpar29/vibin
 ## Steps:
 
 1. Download ffmpeg from [ffmpeg.org](https://ffmpeg.org) and add `ffmpeg.exe` to the PATH
-2. Download the repo and run the batch file.
+2. Download [catmeme_win.zip](https://github.com/arnabanimesh/catmeme/releases/latest/download/catmeme_win.zip), extract to a folder and run the batch file.
 
 ---
 
